@@ -39,12 +39,10 @@ body{
     justify-content: center;
 }
 .container .img{
-    height: 100%;
     border-radius: 10px 0 0 10px;
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(../images/image-product-desktop.jpg);
     background-position: center;
     background-size: cover;
-    height: 100%;
 }
 
 .container .product_info{
@@ -146,6 +144,6 @@ body{
         background-size: cover;
         background-repeat: no-repeat;
         width: 100%;
-        background-image: url(/images//image-product-mobile.jpg);
+        background-image: url(../images/image-product-mobile.jpg);
     }
 }
